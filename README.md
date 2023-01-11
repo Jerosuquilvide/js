@@ -3,4 +3,4 @@
 
 ## En este repositorio estan todos los proyectos de JS
 
-  [Asincronismo](https://github.com/Jerosuquilvide/js/tree/master/Asincronismo "Asincronismo")
+  [Asincronismo // LandingPage Asíncrona](https://github.com/Jerosuquilvide/js/tree/master/Asincronismo "Asincronismo")
